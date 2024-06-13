@@ -16,6 +16,11 @@ In this guide, we'll implement a series of operations using linked lists, specif
 1. **Prompt the User**: Ask the user whether they want to work with a sorted or unsorted linked list.
 2. **Read Input from File**: Read two lists of numbers from a text file.
 3. **Sort if Necessary**: If the user chose a sorted linked list, sort the lists upon insertion.
+4. Askek the user to choose command from the command bellow and execute.
+5. ש
+
+6. ש
+7. ש
 
 ### Time Complexities
 
